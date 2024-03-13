@@ -1,0 +1,12 @@
+[submodule "src/ydlidar_ros2"]
+	path = src/ydlidar_ros2
+	url = https://github.com/cainiao1992/ydlidar_ros2.git
+	branch = foxy
+[submodule "src/micro-ROS-Agent"]
+	path = src/micro-ROS-Agent
+	url = https://github.com/micro-ROS/micro-ROS-Agent.git
+	branch = foxy
+[submodule "src/micro_ros_msgs"]
+	path = src/micro_ros_msgs
+	url = https://github.com/micro-ROS/micro_ros_msgs.git
+	branch = foxy
