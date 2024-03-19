@@ -1,4 +1,7 @@
-[submodule "src/ydlidar_ros2"]
-	path = src/ydlidar_ros2
-	url = https://github.com/cainiao1992/ydlidar_ros2.git
-	branch = foxy
+[submodule "src/ydlidar_ros2_driver"]
+	path = src/ydlidar_ros2_driver
+	url = https://github.com/cainiao1992/ydlidar_ros2_driver.git
+	branch = fishbot_foxy
+[submodule "src/YDLidar-SDK"]
+	path = src/YDLidar-SDK
+	url = https://github.com/YDLIDAR/YDLidar-SDK.git
